@@ -1,7 +1,7 @@
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get dist-upgrade -y
-echo 'Таймер запуститься через 10 секунд запиши команду (sudo bash rtlp3.sh)'
+echo 'Таймер запуститься через 10 секунд после перезагрузки системы пропиши команду (sudo bash rtlp3.sh)'
 sleep 10
 clear
 echo Перезагрузка произойдёт через 10 секунд
