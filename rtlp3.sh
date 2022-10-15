@@ -14,7 +14,7 @@ cd rtl8188eus
 sudo -i
 echo 'blacklist r8188eu'|sudo tee -a '/etc/modprobe.d/realtek.conf'
 exit
-echo 'Система перезагрузиться через 10 секунд после загрузки системы запустите комманду (sudo bash rtlp4.sh)'
+echo 'Система перезагрузиться через 10 секунд после перезагрузки системы пропиши команду (sudo bash rtlp4.sh)'
 sleep 10
 echo 'Но на всякий пожарный я дам тебе еще 5 секунд, вдруг ты не успеваешь.'
 sleep 5 
