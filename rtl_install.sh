@@ -1,7 +1,7 @@
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get dist-upgrade -y
-echo 'Таймер запуститься через 10 секунд запиши команду (sudo bash rtlp2.sh)'
+echo 'Таймер запуститься через 10 секунд запиши команду (sudo bash rtlp3.sh)'
 sleep 10
 clear
 echo Перезагрузка произойдёт через 10 секунд
@@ -37,4 +37,5 @@ clear
 echo Перезагрузка произойдёт через 0 секунд
 sleep 1
 clear
+wget https://raw.githubusercontent.com/filispeen/rtl8188eus-monitor-mode-driver-installer/main/rtlp3.sh
 reboot
