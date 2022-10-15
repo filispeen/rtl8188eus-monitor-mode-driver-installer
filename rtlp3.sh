@@ -28,6 +28,7 @@ echo '  \ \ \/    \_\ \__\ \ \L\ \\_\ \__/\ \L\ \ \ \/  \ \ \L\ \ \ \L\ \ \ \`\ 
 echo '   \ \_\    /\_____\\ \____//\_____\ `\____\ \_\   \ \____/\ \____/\ \_\ \_\'
 echo '    \/_/    \/_____/ \/___/ \/_____/\/_____/\/_/    \/___/  \/___/  \/_/\/_/'
 echo '                                                                            '
+wget https://raw.githubusercontent.com/filispeen/rtl8188eus-monitor-mode-driver-installer/main/rtlp4.sh
 sleep 5
 reboot
 
