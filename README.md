@@ -1,2 +1,2 @@
-# rtl8188eus_monitor_mode_driver
+# rtl8188eus monitor mode driver auto installer
 monitor mode for rtl8188eus drivers auto installer
